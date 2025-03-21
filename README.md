@@ -5,14 +5,10 @@ Repositorio criado para a aula-3 de Web Dev.
 
 Seguda mudança para o teste de commit.
 
-<<<<<<< HEAD
 # Commit para Teste na branch feat-novo
-=======
-# Commit para Teste na branch bugfix
->>>>>>> bugfix
 
-<<<<<<< HEAD
-Seguda mudança para o teste de commit na bugfix.
-=======
 Seguda mudança para o teste de commit no feat-novo
->>>>>>> feat-novo
+
+# Commit para Teste na branch bugfix
+
+Seguda mudança para o teste de commit na bugfix.
