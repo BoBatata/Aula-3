@@ -6,3 +6,5 @@ Repositorio criado para a aula-3 de Web Dev.
 Seguda mudança para o teste de commit.
 
 # Commit para Teste na branch feat-novo
+
+Seguda mudança para o teste de commit.
