@@ -7,4 +7,4 @@ Seguda mudança para o teste de commit.
 
 # Commit para Teste na branch bugfix
 
-Seguda mudança para o teste de commit.
+Seguda mudança para o teste de commit na bugfix.
